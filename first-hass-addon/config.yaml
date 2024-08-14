@@ -12,4 +12,4 @@ arch:
 startup: services
 ports:
   8000/tcp: 8000
-image: liuyi802/my-test-addon
+image: liuyi802/my-test-addon-{arch}
